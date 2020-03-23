@@ -1,0 +1,7 @@
+[submodule "themes/hello-friend"]
+	path = themes/hello-friend
+	url = https://github.com/panr/hugo-theme-hello-friend.git
+[submodule "public"]
+	path = public
+	url = git@github.com:Julrum/Julrum.github.io.git
+	branch = master
