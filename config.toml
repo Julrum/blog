@@ -18,8 +18,8 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
+    title = "Develog"
+    subtitle = "Things learned while studying"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -35,7 +35,7 @@ paginate = 5
     # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "hello friend"
+      logoText = "Develog"
       logoHomeLink = "/"
     # or
     #
