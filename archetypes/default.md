@@ -1,6 +1,10 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+categories: ["essay"]
+tags: ["c++"]
+cover: ""
 ---
 
+# test
+test
