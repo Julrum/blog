@@ -3,9 +3,9 @@ languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
 
-disqusShortname = "disqus_hVUe51GbL4"
+#disqusShortname = "disqus_hVUe51GbL4"
 
-googleAnalytics = "UA-154623819-1"
+#googleAnalytics = "UA-154623819-1"
 
 [params]
   # dir name of your blog content (default is `content/posts`)
