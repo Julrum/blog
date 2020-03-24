@@ -5,7 +5,7 @@ paginate = 5
 
 
 googleAnalytics = "UA-154623819-1"
-disqusShortname = "disqus_hVUe51GbL4"
+disqusShortname = "develoging"
 
 [params]
   # dir name of your blog content (default is `content/posts`)
