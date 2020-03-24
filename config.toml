@@ -3,9 +3,9 @@ languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
 
-#disqusShortname = "disqus_hVUe51GbL4"
 
-#googleAnalytics = "UA-154623819-1"
+googleAnalytics = "UA-154623819-1"
+disqusShortname = "disqus_hVUe51GbL4"
 
 [params]
   # dir name of your blog content (default is `content/posts`)
@@ -25,7 +25,7 @@ paginate = 5
     title = "Develog"
     subtitle = "Things learned while studying"
     keywords = ""
-    copyright = "&copy;. Julrum all rights reserved."
+    copyright = "&copy;2020. Julrum all rights reserved."
     menuMore = "Show more"
     writtenBy = "Written by"
     readMore = "Read more"
