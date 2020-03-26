@@ -7,5 +7,5 @@ I often program using **C/C++(C++17)**, **Python** and **React**. I am currently
 
 
 ### Social Links
-[GitHub](https://github.com/Julrum)
-[Linkedin](https://www.linkedin.com/in/julrum/)
+- [GitHub](https://github.com/Julrum)
+- [Linkedin](https://www.linkedin.com/in/julrum/)
