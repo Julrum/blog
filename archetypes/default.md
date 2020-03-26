@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 categories: ["essay"]
-tags: [""]
+tags: ["c", "language"]
 cover: ""
 draft: true
 ---
