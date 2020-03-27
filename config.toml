@@ -69,5 +69,5 @@ enableRobotsTXT = true
 changefreq = "weekly"
 filename = "sitemap.xml"
 
-[params]
-themeVariant = "custom"
+# [params]
+# themeVariant = "custom"
