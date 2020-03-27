@@ -60,3 +60,14 @@ disqusShortname = "develoging"
       #   identifier = "showcase"
       #   name = "Showcase"
       #   url = "/showcase"
+      
+[outputs]
+home=["HTML", "RSS", "JSON"]
+enableRobotsTXT = true
+
+[sitemap]
+changefreq = "weekly"
+filename = "sitemap.xml"
+
+[params]
+themeVariant = "custom"
