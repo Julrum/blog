@@ -55,7 +55,7 @@ disqusShortname = "develoging"
       [[languages.en.menu.main]]
         identifier = "tag"
         name = "Tag"
-        url = "/tag"
+        url = "/tags"
       # [[languages.en.menu.main]]
       #   identifier = "showcase"
       #   name = "Showcase"
