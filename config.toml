@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://julrum.github.io/"
 languageCode = "ko-kr"
 theme = "hello-friend"
 paginate = 5
