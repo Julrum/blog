@@ -1,13 +1,12 @@
 ---
-title: "	
-OverTheWire.org Bandit Level 0 -> Level 1"
+title: "OverTheWire.org Bandit Level 0 -> Level 1"
 date: 2020-03-30T07:52:30Z
 categories: ["essay"]
 tags: ["overthewire", "bandit", "command", "ssh", "cat", "ls"]
 cover: ""
 ---
 
-OverTheWire Bandit을 풀어보면서 리눅스의 기초적인 명령어를 익혀보려 한다,
+OverTheWire Bandit을 풀어보면서 리눅스의 기초적인 명령어를 익혀보려 한다.
 
   
 
