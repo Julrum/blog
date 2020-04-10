@@ -2,7 +2,7 @@
 title: "OverTheWire.org Bandit Level 13 -> Level 14"
 date: 2020-04-10T13:42:40Z
 categories: ["essay"]
-tags: ["overthewire", "bandit", "command" "ssh", "sshkey"]
+tags: ["overthewire", "bandit", "command", "ssh", "sshkey"]
 cover: ""
 ---
 
