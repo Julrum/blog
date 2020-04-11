@@ -20,15 +20,15 @@ cover: ""
 |자료형|크기|수의 표현 범위|
 |:---:|:---:|:---|
 |`short`|4 byte|-32768 ~ 32767 (-2<sup>15</sup> ~ 2<sup>15</sup> -1)|
-|`int`|4 byte|-2^31 ~ 2^31 -1|
-|`long`|4 byte|-2^31 ~ 2^31 -1|
+|`int`|4 byte|-2<sup>31</sup> ~ 2<sup>31</sup> -1|
+|`long`|4 byte|-2<sup>31</sup> ~ 2<sup>31</sup> -1|
 |`unsigned short`|2 byte|0 ~ 65535|
-|`unsigned int`|4 byte|0 ~ 2^32 -1|
-|`unsigned long`|4 byte|0 ~ 2^32 -1|
+|`unsigned int`|4 byte|0 ~ 2<sup>32</sup> -1|
+|`unsigned long`|4 byte|0 ~ 2<sup>32</sup> -1|
 |`char`|1 byte|0 ~ 255|
-|`float`|4 byte|약 10^-38 ~ 10^38|
-|`double`|8 byte|약 10^-308 ~ 10^308|
-|`long double`|8 byte|약 10^-308 ~ 10^308|
+|`float`|4 byte|약 10<sup>-38</sup> ~ 10<sup>38</sup>|
+|`double`|8 byte|약 10<sup>-308</sup> ~ 10<sup>308</sup>|
+|`long double`|8 byte|약 10<sup>-308</sup> ~ 10<sup>308</sup>|
 
 #### 실습 2_01
 
